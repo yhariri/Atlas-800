@@ -255,15 +255,9 @@ confidence](images/image17.png)
 ### Resources
 
 -   [Datasheet](https://www.cmc.ca/wp-content/uploads/2021/06/DatasheetAtlas800.pdf)
-
--   [Ascend Community](https://www.hiascend.com/); [Video
-    > Introduction](https://youtu.be/6SZ-oQomRKU);
-
--   [Ascend Open-Source (ModelZoo,
-    > Samples)](https://www.hiascend.com/developer/opensource); [Video
-    > Introduction](https://youtu.be/732Hv7cUGG4);
-
--   [Ascend Documentation](https://www.hiascend.com/document) (Model
-    > Development)
-
+-   [Ascend Community](https://www.hiascend.com/); 
+-   [Video > Introduction](https://youtu.be/6SZ-oQomRKU);
+-   [Ascend Open-Source (ModelZoo, > Samples)](https://www.hiascend.com/developer/opensource); 
+-   [Video > Introduction](https://youtu.be/732Hv7cUGG4);
+-   [Ascend Documentation](https://www.hiascend.com/document) (Model > Development)
 ###  
